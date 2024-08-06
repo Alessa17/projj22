@@ -21,10 +21,10 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Qual tema mais te interessa em um livro?",
+        enunciado: "você escolheu livros de ficção!",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "recomendação de livros de ficção .",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
