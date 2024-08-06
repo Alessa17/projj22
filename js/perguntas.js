@@ -5,16 +5,16 @@ export const perguntas = [
             {
                 texto: "Livros de ficção que permitem escapar da realidade.",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "De início, livros que utilizam-se da imaginação.",
+                    "Acha interessante pois foge da realidade."
                 ],
                 proxima: 1,
             },
             {
                 texto: "Livros históricos que apresentam grandes valores para a sociedade atual.",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "De início,livros que retrata a realidade.",
+                    "Pensa que representa ceto valor para sociedade atual."
                 ],
                 proxima: 2,
             },
